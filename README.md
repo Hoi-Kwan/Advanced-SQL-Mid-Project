@@ -11,4 +11,4 @@ I extracted and analysed website traffic and performance data from the Maven Fuz
 5. pull session to order conversion rate, by month <br>
 6. the company created a new homepage for Gsearch channel and it has been tested for 06/19-07/28, so estimate the revenue from the testing period <br> 
 7. build a full conversion funnel from each of the landing pages to orders for 06/19-07/28 <br>
-8. quantify the impact of a new billing page by analysing the revenue per billing session and number of billing page session for the last month to understand total monthly impact <br>
+8. the company created a new billing page, so quantify the impact of a new billing page by analysing the revenue per billing session and number of billing page session for the last month to understand total monthly impact <br>
