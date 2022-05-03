@@ -2,8 +2,8 @@
 I extracted and analysed website traffic and performance data from the Maven Fuzzy Factory database to quantify the company's growth, and to tell the story of how it has been able to generate that growth.
 
 # Traffic Analysis Tasks <br>
-1. pull monthly trends for Gsearch sessions and orders to showcase generall growth <br>
-2. pull monthly trends for Gsearch sessions and orders, but this time splitting out nonbrand and brand campaigns separately <br>
+1. pull monthly trends for Gsearch channel sessions and orders to showcase generall growth <br>
+2. pull monthly trends for Gsearch channel sessions and orders, but this time splitting out nonbrand and brand campaigns separately <br>
 3. for Gsearch nonbrand, pull monthly sessions and orders split by device type <br>
 4. pull monthly session trends for Gsearch and other channels <br>
 
