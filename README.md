@@ -1,4 +1,4 @@
-# Analysing-Website-Traffic-and-Performance-Data
+# Mid-Project: analysing website traffic and performance data
 I extracted and analysed website traffic and performance data from the Maven Fuzzy Factory database to quantify the company's growth, and to tell the story of how it has been able to generate that growth.
 
 # Traffic Analysis Tasks <br>
